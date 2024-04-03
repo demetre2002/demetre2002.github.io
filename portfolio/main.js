@@ -15,8 +15,9 @@ const toggleFn = () =>{
 
 toggleFn()
 button.addEventListener('click',()=>{
+      toggleButton=!toggleButton
     toggleFn()
-    toggleButton=!toggleButton
+  
    
 
 
