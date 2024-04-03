@@ -3,8 +3,7 @@
     height: 50px;
     margin: 200px auto;
     display: block;
-    position: fixed;
-margin-left: 7rem;
+    position:relative;
 }
 
 .botontext {
